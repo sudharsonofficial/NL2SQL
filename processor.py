@@ -11,7 +11,7 @@ class SpiderModel():
 
     def __preprocess(self): # add any parameters if required --> raw input string returns preprocessed input
         """
-        Preprocess the text bofore fitting the model
+        Preprocess the text before fitting the model
         Add if required
         return the results
         """
@@ -56,7 +56,7 @@ class CustomModel():
 
     def __preprocess(self): # add any parameters if required --> raw input string returns preprocessed input
         """
-        Preprocess the text bofore fitting the model
+        Preprocess the text before fitting the model
         Add if required
         return the results
         """
